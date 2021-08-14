@@ -5,6 +5,7 @@ def main():
     a = 4
     c = a+b
     print(c)
-    
+    print("Test of atom")
+
 if __name__ == '__main__':
     main()
